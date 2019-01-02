@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import EXIF from '../exif.js'
+import EXIF from '../utils/exif.js'
 
 export default {
   name: 'UploadFile',
