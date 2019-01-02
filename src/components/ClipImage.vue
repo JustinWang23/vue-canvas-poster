@@ -40,7 +40,6 @@
 </template>
 
 <script>
-import '../utils.js'
 
 export default {
   name: 'ClipImage',
