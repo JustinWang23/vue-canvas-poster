@@ -1,5 +1,7 @@
 # Vue通过Canvas生成海报
 
+[![Build Status](https://travis-ci.org/JustinWang23/Vue-Canvas-Poster.svg?branch=master)](https://travis-ci.org/JustinWang23/Vue-Canvas-Poster)
+
 前几天公司年会要做一个需求，在移动端上传图片并生成封面海报，中间还涉及图片的移动和缩放。
 
 由于之前的海报都是交给后台JAVA来生产的，原理类似于打水印，正巧前段时间看了Canvas，很有意思，所以这个需求就用纯前端实现了一下。
