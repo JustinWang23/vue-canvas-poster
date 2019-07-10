@@ -6,6 +6,10 @@
 
 这几天整理了一下代码，总结一下中间遇到的坑和经验。
 
+## 演示
+
+[在线演示](https://justinwang23.github.io/Vue-Canvas-Poster/)
+
 ## 安装
 
 ``` bash
