@@ -10,7 +10,7 @@
 
 ## 演示
 
-[在线演示](https://justinwang23.github.io/Vue-Canvas-Poster/)
+[在线演示](https://justinwang23.github.io/vue-canvas-poster/)
 
 ## 安装
 
